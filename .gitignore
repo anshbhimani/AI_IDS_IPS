@@ -1,5 +1,0 @@
-# Exclude the Idea Directory
-Idea/*
-
-# Ignore the gitignore file also
-.gitignore
