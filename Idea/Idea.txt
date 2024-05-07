@@ -1,6 +1,0 @@
-Use the public database for all vulnerabilities
-No nessus
-Use this database to train model
-Train another model to analyse user behaviour analysis
-Analyse system logs for suspicious activities
-Actively scan for ping on ports and track that ip that pings
